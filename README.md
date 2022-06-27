@@ -12,7 +12,7 @@ Step 2: Allow the access to the mic
 ![App Screenshot](img/img2.png)
 
 Step 3: Speak!! 
-![App Screenshot](img/img1.png)
+![App Screenshot](img/img3.png)
 
 Step 4: We can turn your voice into text!!
-![App Screenshot](img/img3.png)
+![App Screenshot](img/img1.png)
