@@ -5,14 +5,14 @@ This is the first task with Smart Methods, in which I Used JS to create Arabic-V
 
 ## Screenshots
 
-Step 1: Open the page
+Step 1: Click on start button
 ![App Screenshot](img/img0.png)
 
-Step 2: Click on start button
+Step 2: Allow the access to the mic
 ![App Screenshot](img/img2.png)
 
-Step 3: Allow the access to the mic
+Step 3: Speak!! 
 ![App Screenshot](img/img1.png)
 
-Step 4: Speak!!
+Step 4: We can turn your voice into text!!
 ![App Screenshot](img/img3.png)
