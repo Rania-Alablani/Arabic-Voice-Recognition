@@ -16,3 +16,5 @@ Step 3: Speak!!
 
 Step 4: We can turn your voice into text!!
 ![App Screenshot](img/img1.png)
+
+note: you can find task 2 (for the esp32) in the "algorithm" folder.
