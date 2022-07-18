@@ -1,4 +1,4 @@
-# Arabic-Voice-Recognition
+# Task 1: Arabic-Voice-Recognition
 
 
 This is the first task with Smart Methods, in which I used JS to create Arabic-Voice-Recognition! 
@@ -17,4 +17,5 @@ Step 3: Speak!!
 Step 4: We can turn your voice into text!!
 ![App Screenshot](img/img1.png)
 
-note: you can find task 2 (for the esp32) in the "algorithm" folder.
+# Task 2: Esp32 algorithm 
+you can find it in the "algorithm" folder.
